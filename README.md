@@ -1,3 +1,8 @@
+# Operaciones con Cadenas y Lenguajes
+* **Nombre completo:** Diego Navarro Sánchez
+* **Matrícula:** 202497
+* **Nombre de la actividad:** Implementación de operaciones con cadenas y lenguajes
+
 ## Instrucciones para Clonar, Ejecutar y Probar el Proyecto
 
 Para probar el servicio web y ejecutar la solución de los ejercicios solicitados, sigue los pasos descritos a continuación. Se requiere el uso de dos terminales abiertas simultáneamente: una para mantener corriendo el servidor API y otra para ejecutar el script de pruebas.
