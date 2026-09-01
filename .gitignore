@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+env/
+ENV/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de configuración local del editor (opcional)
+.vscode/
+.idea/
+.ipynb_checkpoints/
