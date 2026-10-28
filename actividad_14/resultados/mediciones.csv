@@ -1,0 +1,46 @@
+digitos,caso,variante,metodo,umbral,tiempo_ms,memoria_pico_kib,multiplicaciones_digito,llamadas,casos_base,profundidad_maxima,correcto
+20,1,Escuela,escuela,1,0.08043,2.751,400,1,1,0,SI
+20,1,Divide4,divide4,1,1.40707,3.389,361,773,580,5,SI
+20,1,Karatsuba u=1,karatsuba,1,1.05339,3.314,191,355,237,6,SI
+20,1,Karatsuba u=8,karatsuba,8,0.21171,3.26,257,13,9,2,SI
+20,1,Karatsuba u=16,karatsuba,16,0.1733,3.244,321,4,3,1,SI
+20,2,Escuela,escuela,1,0.06016,2.571,400,1,1,0,SI
+20,2,Divide4,divide4,1,1.23392,3.264,342,757,568,5,SI
+20,2,Karatsuba u=1,karatsuba,1,1.19818,3.244,194,382,255,6,SI
+20,2,Karatsuba u=8,karatsuba,8,0.1567,3.244,263,13,9,2,SI
+20,2,Karatsuba u=16,karatsuba,16,0.08415,3.244,321,4,3,1,SI
+20,3,Escuela,escuela,1,0.06127,2.571,400,1,1,0,SI
+20,3,Divide4,divide4,1,1.27749,3.264,342,757,568,5,SI
+20,3,Karatsuba u=1,karatsuba,1,1.00733,3.244,187,358,239,6,SI
+20,3,Karatsuba u=8,karatsuba,8,0.14871,3.244,269,13,9,2,SI
+20,3,Karatsuba u=16,karatsuba,16,0.09438,3.244,321,4,3,1,SI
+50,1,Escuela,escuela,1,0.47269,6.091,2500,1,1,0,SI
+50,1,Divide4,divide4,1,7.72843,7.088,1978,4177,3133,6,SI
+50,1,Karatsuba u=1,karatsuba,1,4.6219,7.131,746,1534,1023,8,SI
+50,1,Karatsuba u=8,karatsuba,8,0.65285,7.068,1133,40,27,3,SI
+50,1,Karatsuba u=16,karatsuba,16,0.43447,7.068,1459,13,9,2,SI
+50,2,Escuela,escuela,1,0.34889,6.091,2500,1,1,0,SI
+50,2,Divide4,divide4,1,8.04434,7.09,2160,4357,3268,6,SI
+50,2,Karatsuba u=1,karatsuba,1,3.9987,7.132,721,1471,981,8,SI
+50,2,Karatsuba u=8,karatsuba,8,0.78861,7.069,1147,40,27,3,SI
+50,2,Karatsuba u=16,karatsuba,16,0.57925,7.069,1458,13,9,2,SI
+50,3,Escuela,escuela,1,0.60867,6.091,2500,1,1,0,SI
+50,3,Divide4,divide4,1,6.67455,7.089,1849,3901,2926,6,SI
+50,3,Karatsuba u=1,karatsuba,1,4.36109,7.13,740,1453,969,8,SI
+50,3,Karatsuba u=8,karatsuba,8,0.74786,7.067,1119,40,27,3,SI
+50,3,Karatsuba u=16,karatsuba,16,0.41901,7.067,1434,13,9,2,SI
+100,1,Escuela,escuela,1,1.8836,11.79,10000,1,1,0,SI
+100,1,Divide4,divide4,1,29.2721,13.303,8554,17617,13213,7,SI
+100,1,Karatsuba u=1,karatsuba,1,12.67434,13.345,2290,4513,3009,9,SI
+100,1,Karatsuba u=8,karatsuba,8,2.06494,13.282,3410,121,81,4,SI
+100,1,Karatsuba u=16,karatsuba,16,1.38993,13.282,4362,40,27,3,SI
+100,2,Escuela,escuela,1,1.48943,11.79,10000,1,1,0,SI
+100,2,Divide4,divide4,1,27.36719,13.305,8556,17333,13000,7,SI
+100,2,Karatsuba u=1,karatsuba,1,12.46197,13.348,2319,4546,3031,9,SI
+100,2,Karatsuba u=8,karatsuba,8,1.90055,13.285,3508,121,81,4,SI
+100,2,Karatsuba u=16,karatsuba,16,1.71095,13.285,4439,40,27,3,SI
+100,3,Escuela,escuela,1,1.48601,11.79,10000,1,1,0,SI
+100,3,Divide4,divide4,1,27.23212,13.3,7830,16401,12301,7,SI
+100,3,Karatsuba u=1,karatsuba,1,12.5408,13.342,2269,4492,2995,9,SI
+100,3,Karatsuba u=8,karatsuba,8,2.03532,13.279,3425,121,81,4,SI
+100,3,Karatsuba u=16,karatsuba,16,1.50063,13.279,4350,40,27,3,SI
